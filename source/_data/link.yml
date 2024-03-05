@@ -1,0 +1,63 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: 中国海洋大学
+      link: https://www.ouc.edu.cn/
+      avatar: https://pic.imgdb.cn/item/65b36c2a871b83018a0e86bb.jpg
+      descr: 海大官网
+    - name: 天津大学
+      link: https://www.tju.edu.cn/
+      avatar: https://pic.imgdb.cn/item/65b36de6871b83018a147b9f.jpg
+      descr: 天大官网
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速简单且强大的网志框架
+
+- class_name: 学习网站
+  class_desc: 
+  link_list:
+    - name: Easy Hexo
+      link: https://easyhexo.com/
+      avatar: https://pic.imgdb.cn/item/65b375c6871b83018a2f8fb4.jpg
+      descr: 一站式 Hexo 教程
+    - name: 《机器学习系统：设计和实现》
+      link: https://openmlsys.github.io/index.html
+      avatar: https://pic.imgdb.cn/item/65b375e2871b83018a2ff14d.jpg
+      descr: 机器学习底层系统知识
+    - name: AI_Tutorial
+      link: https://cbamls.github.io/AI_Tutorial/
+      avatar: https://pic.imgdb.cn/item/65b372ae871b83018a255c30.jpg
+      descr: 高质量的人工智能、机器学习、大数据等技术资料
+
+- class_name: 影视资源
+  class_desc: 
+  link_list:
+    - name: MP4电影
+      link: https://www.mp4us.com/
+      avatar: https://pic.imgdb.cn/item/65b37706871b83018a338564.jpg
+      descr: 电影下载，资源齐，速度快
+    - name: libvio
+      link: https://www.libvio.pro/
+      avatar: https://pic.imgdb.cn/item/65b377c6871b83018a35f385.jpg
+      descr: 在线观看，热门资源，清晰度高
+    - name: 奈斯搜索
+      link: https://www.niceso.net/
+      avatar: https://pic.imgdb.cn/item/65b3785f871b83018a37e89a.jpg
+      descr: 阿里云盘搜索，大量影视资源、软件等
+    - name: 影视森林
+      link: https://www.549.tv/
+      avatar: https://pic.imgdb.cn/item/65b37934871b83018a3aa9d0.jpg
+      descr: 影视网站集合
+
+- class_name: 图片资源
+  class_desc: 
+  link_list:
+    - name: Pixbay
+      link: https://pixabay.com/zh/
+      avatar: https://pic.imgdb.cn/item/65b37b7f871b83018a41e4b0.jpg
+      descr: 免费、无版权、资源丰富
+    - name: wallspic
+      link: https://wallspic.com/cn
+      avatar: https://pic.imgdb.cn/item/65b37be9871b83018a431851.jpg
+      descr: 手机、电脑壁纸
